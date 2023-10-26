@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./helpabout.xsl"?><helpaboutdocument publicaccess="false" designerversion="8.5.3" default="true" bgcolor="#ffffd0" renderpassthrough="true">
+<noteinfo noteid="2aa" unid="DDC972199360B84149258A0C0001B5CF" sequence="3">
+<created><datetime>2023-08-15 09:18:40</datetime></created>
+<modified><datetime>2023-08-15 09:20:21</datetime></modified>
+<revised><datetime>2023-08-15 09:20:21</datetime></revised>
+<lastaccessed><datetime>2023-08-15 09:20:21</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-15 09:18:40</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<wassignedby><name>CN=Admin/O=Dot123</name></wassignedby>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"><run><font size="36pt" style="font-weight:bold;" color="blue">アプリケーションについて</font></run></p>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/>
+<pardef id="2" align="right"/>
+<p def="2">2023, K.Kimura (dotnsf@gmail.com) all rights reserved.</p>
+<p def="1"/>
+<p def="1"/></richtext></body></helpaboutdocument>

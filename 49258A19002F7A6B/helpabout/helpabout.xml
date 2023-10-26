@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./helpabout.xsl"?><helpaboutdocument publicaccess="true" designerversion="8.5.4" default="true">
+<noteinfo noteid="17a" unid="D292DEDA375F1CAD052567290005787B" sequence="3">
+<created><datetime>1999-03-02 19:59:45</datetime></created>
+<modified><datetime>2023-08-28 17:38:35</datetime></modified>
+<revised><datetime dst="true">20130924T101309,76-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:35</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:35</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20061107T174207,07-04</datetime><datetime dst="true">20080909T103135,02-04</datetime><datetime dst="true">20090730T102629,13-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" leftmargin="1in" rightmargin="90%"/>
+<p def="1"><run><font color="purple"></font></run></p>
+<table widthtype="fitwindow" minrowheight="0.3299in" leftmargin="0" colorstyle="solid" bgcolor="black" refwidth="17.8125in"><tr><th width="100%"/>
+</tr><tr>
+<td valign="center" bgcolor="#7babd7">
+<pardef id="3" leftmargin="1.3750in" rightmargin="90%" keepwithnext="true" keeptogether="true"/>
+<p def="3"><run><font style="font-weight:bold;" color="white"> </font></run><img src="data:image/mail-view;base64,
+R0lGODlhIQAQANX/AKCfohoaG+/z+fH1+gsUHQIDBPv8/Rw3T9zo80KFviFCXw0aJREiMHGjznKj
+znWlz5y/3anH4azJ4rvT59Hh7+Tu9QMFBgIDA+nqjsDCfICAAP//wvPz6v//+f///Ojo58DAwNLR
+0f////7+/v39/e3t7cfHx8XFxaKiooCAgDU1NSIiIhUVFRISEgQEBAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACAALAAAAAAhABAAQAb/QJBQ
+WCi8hkjQEXm5LJNKkfQFaTQolNcrQhBqpaIXJpPZbLQnFtGgUEDeFIXB8HIMX5eORoPpbzQdHS8A
+dyIJYGAThxIvCQ9fKYhSIZEmLykoIEUOFWxzdUlHTQAceoGDSQVhVVhXcQYOB14XYWNmZX8dACpe
+IooiIwsvhlKMXsOUIiQBw5EillAPCVqOFQmMjk8gKClamCUplphDm592oUOjp4SpDiJsbnIjoHcX
+ACJ6fIAeqEMMCW+quJKDgN6LFSn6jMEF6EO/YausUBj4oosSiGLIbGD4okUvYlSyQIxg4ZiUSGLO
+QDzholeCCZJeijB2UUSKEJJuPlsyjdoDHgEDpCxq1FPLJRRAT+5MkQKKEGlGHSlxuq2bt0xBAAA7
+FwQAO+jo5/fDNbKcYMKvfCAdFf+/GODAdPTitvHfs/LgtfHftPLhuIJuP+/bsPLgtv/x0PDdthsZ
+Ff/fqmpdSNG5kfvoyP7ry//Po+JiAIAAAIxaWuCUlN+fn6OhoZiWln18fNLR0f7+/v39/fz8/Pv7
++/r6+vf39/T09PLy8u3t7ejo6OHh4d7e3tzc3NnZ2dLS0tDQ0MzMzMvLy8jIyMfHx8XFxcPDw8DA
+wL29vbi4uLKysrGxsa6urqenp6Kiop6enp2dnZqampmZmY+Pj4yMjIeHh4CAgHNzc2xsbGhoaF9f
+X1JSUlBQUE9PT01NTUtLSz8/Pzc3NzU1NSIiIhUVFRISEgQEBP///yH5BAEAAP8ALAAAAAAhABAA
+AAj/AP8JFAgBAoCBCP8dROjEycKECAuSkCABAAmIDxsKKFUKgACI/yQakaCBosWEBzWSKtWJo8eE
+EEgEIKkhR8lkJwcCcCIgAMtOmlqeejkQAs0cSIOUrHhR4M6fmqKKatnxo0AOGZDmGDEiiFIJGHIC
+2OcuqqZNm0RNLYWKKIQAALZ67fqVxASnTuCeVZt2rQB9TgPA3dqVrgYAD5wCEAzgbNq+nQD0C8yY
+sFcAAHYkVriYsWO1mLvxo5xhcBDMgncgUSzYnV5RqAN08xcYSOlkGxaXDtBjIWpkrpUVWOw6ADff
+ATIAEcxcOW/fxJExby39eODd020/z1ACdfHpwI0DOnBnLgNmANwRJBBcuncG8+fHm1PfWrw7dwhL
+wOduJIP77giZ4w5m5EXjznHkgfSPfudxp5CCAp6XYEAAOw==
+" width="21px" height="21px"></img><run><font style="font-weight:bold;" color="white">    </font></run><run><font style="font-weight:bold;" name="user-interface" color="white">About the Mail Database</font></run></p></td></tr></table>
+<pardef id="4" leftmargin="1in" rightmargin="8.5000in"/>
+<p def="4"><run><font size="9pt"></font></run></p>
+<p def="4"><run><font size="9pt"></font></run></p>
+<pardef id="5" leftmargin="1.3750in" rightmargin="99%"/>
+<p def="5"><run><font size="9pt" name="user-interface">The Mail template is used to create a database to send and receive electronic mail using Notes. The template can be used to create a mail database either on a local computer or on a server. Mail databases created from this template are best used by Notes, Intranet or Internet Clients. </font></run></p>
+<p def="5"><run><font size="9pt" name="user-interface"></font></run></p>
+<p def="5"><run><font size="9pt" name="user-interface">The Mail template also contains Calendaring and Scheduling features which can be used for personal time management, meeting and appointment scheduling, or to delegate work to other people. The Calendar View provides a desktop calendar for ease in viewing scheduled appointments.</font></run></p>
+<p def="5"><run><font size="9pt" name="user-interface"></font></run></p>
+<p def="5"><run><font size="9pt" name="user-interface">Please consult Help/Help Topics for more information on how to use the features of the Mail template.</font></run></p>
+<p def="5"><run><font size="9pt" name="user-interface"></font></run></p>
+<pardef id="6" leftmargin="15%" rightmargin="90%" tabs="L1.5104in L2.0104in L2.4896in L3.0104in L3.5000in L4.0104in L4.5104in"/>
+<p def="6"><run><font size="9pt" style="font-weight:bold;" name="user-interface">For more information, see </font></run><actionhotspot hotspotstyle="none"><code event="click"></code><run><font size="9pt" style="bold underline" name="user-interface" color="blue">Mail and Address Book</font></run></actionhotspot><run><font size="9pt" style="font-weight:bold;" name="user-interface"> or </font></run><actionhotspot hotspotstyle="none"><code event="click"></code><run><font size="9pt" style="bold underline" name="user-interface" color="blue">Calendar and Scheduling</font></run></actionhotspot><run><font size="9pt" style="font-weight:bold;" name="user-interface"> in IBM Notes Help.</font></run></p>
+<pardef id="7" leftmargin="1in" rightmargin="99%"/>
+<p def="7"><run><font size="9pt"></font></run></p></richtext></body>
+<item name="OriginalModTime" sign="true"><datetime dst="true">20050323T073828,82-04</datetime></item></helpaboutdocument>

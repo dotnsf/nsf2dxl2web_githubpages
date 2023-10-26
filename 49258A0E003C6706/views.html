@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script>
+var display_pages = false;
+var display_outlines = false;
+
+$(function(){
+  var param = ( location.search ? location.search.substring( 1 ) : "" );
+  var params = param.split( "&" );
+  params.forEach( function( keyvalue ){
+    var kv = keyvalue.split( "=" );
+    if( kv.length > 1 ){
+      if( kv[0] == "display_pages" && kv[1] ){
+        display_pages = true;
+      }else if( kv[0] == "display_outlines" && kv[1] ){
+        display_outlines = true;
+      }
+    }
+  });
+  if( display_pages ){ $("#div_pages").css( "display", "block" ); }
+  if( display_outlines ){ $("#div_outlines").css( "display", "block" ); }
+});
+
+</script>
+</head><body><h3><img src="./db.png" width="24"/> サンプルDB</h3><a target="docs" href="./views/view.html?unid=D6A286698AE4B54F49258A0E003C670C"><img src="./resources/viewlink.png" width="20"/>($All)</a></br><div id="div_pages" style="display:none;"><hr/></div><div id="div_outlines" style="display:none;"><hr/></div></body></html>

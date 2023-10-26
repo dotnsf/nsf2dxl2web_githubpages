@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/B5E18B470736AB0D49258A00002052C0.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A000002200B" form="フォーム２">
+<noteinfo noteid="93e" unid="B3B92A39D8C2FAC249258A3B0014AEDB" sequence="4">
+<created><datetime>2023-10-01 12:45:54</datetime></created>
+<modified><datetime>2023-10-01 22:19:26</datetime></modified>
+<revised><datetime>2023-10-01 22:19:26</datetime></revised>
+<lastaccessed><datetime>2023-10-01 22:19:26</datetime></lastaccessed>
+<addedtofile><datetime>2023-10-01 12:48:04</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<revisions><datetime>2023-10-01 12:48:04</datetime><datetime>2023-10-01 14:20:47</datetime><datetime>2023-10-01 14:21:01</datetime></revisions>
+<item name="Shared_Subject"><text>テーブル内テーブル</text></item>
+<item name="Username" names="true"><text>Admin</text></item>
+<item name="Body"><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"/>
+<table widthtype="fitmargins" refwidth="9.3236in"><tr><th width="33.9410%"/><th width="33.9410%"/><th width="32.1181%"/>
+</tr><tr>
+<td bgcolor="#ffffc2">
+<pardef id="3" keepwithnext="true" keeptogether="true"/>
+<p def="3"/>
+<p def="3"/>
+<table leftmargin="0.0104in" widthtype="fixedleft" refwidth="3.1542in"><tr><th width="1.5771in"/><th width="1.5771in"/>
+</tr><tr>
+<td bgcolor="#f7f7f7">
+<pardef id="5" keepwithnext="true" keeptogether="true"/>
+<p def="5">1</p></td>
+<td bgcolor="#f7f7f7">
+<pardef id="6" keepwithnext="true" keeptogether="true"/>
+<p def="6">2</p></td></tr>
+<tr>
+<td bgcolor="#f7f7f7">
+<p def="5">3</p></td>
+<td bgcolor="#f7f7f7">
+<p def="6">4</p></td></tr></table></td>
+<td bgcolor="#ffffc2">
+<pardef id="7" keepwithnext="true" keeptogether="true"/>
+<p def="7"/>
+<p def="7"/>
+<div class="tab-wrap"><input id="tab-0-0" type="radio" name="tab_item_0" class="tab-switch" checked="checked"/><label class="tab-label" for="tab-0-0">A</label><div class="tab-content"><p bgcolor="#ffe0f5">
+<pardef id="9" keepwithnext="true" keeptogether="true"/>
+<p def="9">a</p></p>
+<p>
+<pardef id="10" keepwithnext="true" keeptogether="true"/>
+<p def="10">あ</p></p></div><input id="tab-0-1" type="radio" name="tab_item_0" class="tab-switch"/><label class="tab-label" for="tab-0-1">B</label><div class="tab-content"><p bgcolor="aqua">
+<p def="9">b</p></p>
+<p>
+<p def="10">い</p></p></div></div></td>
+<td bgcolor="#ffffc2">
+<pardef id="11" keepwithnext="true" keeptogether="true"/>
+<p def="11">aaa</p></td></tr>
+<tr>
+<td bgcolor="#ffffc2">
+<p def="3">bbb</p></td>
+<td bgcolor="#ffffc2">
+<p def="7"/>
+<p def="7"/>
+<table leftmargin="0.0104in" widthtype="fixedleft" refwidth="3.1542in"><tr><th width="1.0514in"/><th width="1.0514in"/><th width="1.0514in"/>
+</tr><tr>
+<td bgcolor="#c2efff">
+<pardef id="12" keepwithnext="true" keeptogether="true"/>
+<p def="12">100</p></td>
+<td bgcolor="#c2efff">
+<pardef id="13" keepwithnext="true" keeptogether="true"/>
+<p def="13">200</p></td>
+<td bgcolor="#c2efff">
+<pardef id="14" keepwithnext="true" keeptogether="true"/>
+<p def="14">300</p></td></tr>
+<tr>
+<td bgcolor="#c2efff">
+<p def="12">300</p></td>
+<td bgcolor="#c2efff">
+<p def="13">200</p></td>
+<td bgcolor="#c2efff">
+<p def="14">100</p></td></tr></table></td>
+<td bgcolor="#ffffc2">
+<p def="11"/></td></tr>
+<tr>
+<td bgcolor="#ffffc2">
+<p def="3"/></td>
+<td bgcolor="#ffffc2">
+<p def="7"/></td>
+<td bgcolor="#ffffc2">
+<p def="11"/></td></tr></table>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/></richtext></item>
+<item name="Shared_Modified"><datetime>2023-10-01 12:45:54</datetime></item></document>

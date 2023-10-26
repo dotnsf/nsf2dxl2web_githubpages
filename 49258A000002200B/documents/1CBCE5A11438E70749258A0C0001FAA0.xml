@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/0D80B3C76C11B9F749258A020029BE1C.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A000002200B" form="Form0">
+<noteinfo noteid="91a" unid="1CBCE5A11438E70749258A0C0001FAA0" sequence="4">
+<created><datetime>2023-08-15 09:21:36</datetime></created>
+<modified><datetime>2023-10-21 16:52:48</datetime></modified>
+<revised><datetime>2023-10-21 16:52:48</datetime></revised>
+<lastaccessed><datetime>2023-10-21 16:52:48</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-15 09:25:50</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<revisions><datetime>2023-08-15 09:25:50</datetime><datetime>2023-08-17 22:29:25</datetime><datetime>2023-10-21 16:51:26</datetime></revisions>
+<item name="Shared_Subject"><text>各種リンク</text></item>
+<item name="Body"><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"/>
+<pardef id="2" leftmargin="1.2500in" list="bullet"/>
+<p def="2">DB リンク（内）<a target="views" href="../../49258A000002200B/views.html"><img src="../resources/dblink.png" width="20"/>NSF2DXL2WEB サンプル</a></p>
+<p def="2">DB リンク（外）<a target="views" href="../../49258A0E003C6706/views.html"><img src="../resources/dblink.png" width="20"/>サンプルDB</a></p>
+<p def="2">View リンク（内）<a target="docs" href="../../49258A000002200B/views/view.html?unid=36D89674FBEACD5149258A0000022011"><img src="../resources/viewlink.png" width="20"/></a></p>
+<p def="2">View リンク（外）<a target="docs" href="../../49258A0E003C6706/views/view.html?unid=D6A286698AE4B54F49258A0E003C670C"><img src="../resources/viewlink.png" width="20"/></a></p>
+<p def="2">Folder リンク（内）<a target="docs" href="../../49258A000002200B/views/view.html?unid=9B27DEAEAAF7B4E049258A0100300BB9"><img src="../resources/viewlink.png" width="20"/></a></p>
+<p def="2">Folder リンク（外）<a target="docs" href="../../49258A19002F7A6B/views/view.html?unid=38D46BF5E8F08834852564B500129B2C"><img src="../resources/viewlink.png" width="20"/></a></p>
+<p def="2">Doc リンク（内）<a target="doc" href="../../49258A000002200B/documents/9A8E4B351533C3D649258A000024637C.xml"><img src="../resources/doclink.png" width="20"/></a></p>
+<p def="2">Doc リンク（外）<a target="doc" href="../../49258A0E003C6706/documents/EAFBBAAB1629D52D49258A0E003CB5AF.xml"><img src="../resources/doclink.png" width="20"/></a></p>
+<p def="2">URL リンク : <a target="_blank" showborder="false" href="https://manholemap.juge.me/"><run><font color="system">https://manholemap.juge.me/</font></run></a></p>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/></richtext></item>
+<item name="Username" authors="true" names="true"><text>Admin</text></item>
+<item name="Shared_Modified"><datetime>2023-10-21 16:51:26</datetime></item></document>

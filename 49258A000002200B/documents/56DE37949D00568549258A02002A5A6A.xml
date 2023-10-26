@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/0D80B3C76C11B9F749258A020029BE1C.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A000002200B" form="Form0">
+<noteinfo noteid="90e" unid="56DE37949D00568549258A02002A5A6A" sequence="1">
+<created><datetime>2023-08-05 16:42:36</datetime></created>
+<modified><datetime>2023-08-05 16:42:46</datetime></modified>
+<revised><datetime>2023-08-05 16:42:46</datetime></revised>
+<lastaccessed><datetime>2023-08-05 16:42:46</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-05 16:42:46</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<item name="Shared_Subject"><text>テスト０</text></item>
+<item name="Body"><richtext>
+<pardef id="1"/>
+<p def="1">改行</p>
+<p def="1">かいぎょう</p></richtext></item>
+<item name="Username" authors="true" names="true"><text>Admin</text></item>
+<item name="Shared_Modified"><datetime>2023-08-05 16:42:36</datetime></item></document>

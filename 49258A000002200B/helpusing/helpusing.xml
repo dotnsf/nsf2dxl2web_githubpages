@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./helpusing.xsl"?><helpusingdocument publicaccess="false" designerversion="8.5.3" default="true" bgcolor="#ffffc2" renderpassthrough="true">
+<noteinfo noteid="2ae" unid="C0C66642F53BD09C49258A0C0001DE7F" sequence="2">
+<created><datetime>2023-08-15 09:20:24</datetime></created>
+<modified><datetime>2023-08-15 09:21:00</datetime></modified>
+<revised><datetime>2023-08-15 09:21:00</datetime></revised>
+<lastaccessed><datetime>2023-08-15 09:21:00</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-15 09:20:25</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<wassignedby><name>CN=Admin/O=Dot123</name></wassignedby>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"><run><font size="36pt" style="font-weight:bold;" color="blue">アプリケーションの使い方</font></run></p>
+<p def="1"/>
+<p def="1"/></richtext></body></helpusingdocument>

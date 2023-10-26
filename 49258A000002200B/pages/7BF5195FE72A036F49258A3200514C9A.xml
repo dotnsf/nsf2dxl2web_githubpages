@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="myPage0" publicaccess="false" designerversion="8.5.3" renderpassthrough="true">
+<noteinfo noteid="7aa" unid="7BF5195FE72A036F49258A3200514C9A" sequence="5">
+<created><datetime>2023-09-22 23:48:00</datetime></created>
+<modified><datetime>2023-09-24 19:27:54</datetime></modified>
+<revised><datetime>2023-09-24 19:27:54</datetime></revised>
+<lastaccessed><datetime>2023-09-24 19:27:54</datetime></lastaccessed>
+<addedtofile><datetime>2023-09-22 23:48:00</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<wassignedby><name>CN=Admin/O=Dot123</name></wassignedby>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<pardef id="2" align="center"/>
+<p def="2"> <run><font style="font-weight:bold;">- myPage0 -</font></run></p>
+<p def="1"/>
+<p def="1"><embeddedview name="($All)" width="3.5000in" height="2in"/></p>
+<p def="1"/>
+<p def="1"/>
+<p def="1"><embeddedview name="myFolder" width="3.5000in" height="2in"/></p>
+<p def="1"/></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>myPage0</text></item></page>

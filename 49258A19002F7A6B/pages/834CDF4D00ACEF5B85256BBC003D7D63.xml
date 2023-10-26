@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="NotesCalendar Border" publicaccess="true" designerversion="6.5" language="en" bgcolor="#ededf2" noinitialfocus="true" nofocusonf6="true" renderpassthrough="true">
+<noteinfo noteid="622" unid="834CDF4D00ACEF5B85256BBC003D7D63" sequence="380">
+<created><datetime dst="true">20020517T071137,95-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:41</datetime></modified>
+<revised><datetime dst="true">20130924T101315,12-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:41</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:41</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103139,12-04</datetime><datetime dst="true">20081112T161239,49-04</datetime><datetime dst="true">20090302T151013,71-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" hide="notes web mobile"/>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run></p>
+<table widthtype="fitwindow" minrowheight="6in" leftmargin="0.7500in" refwidth="10.0833in"><border style="image" width="0px 0px 0px 6px"><imageref name="MailFS - Vertical Stripe"/></border><tr><th width="100%"/>
+</tr><tr>
+<td borderwidth="0px">
+<pardef id="3" keepwithnext="true" keeptogether="true"/>
+<p def="3"/></td></tr>
+<tr>
+<td borderwidth="0px">
+<p def="3"/></td></tr></table>
+<p def="1"/></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>NotesCalendar Border</text></item></page>

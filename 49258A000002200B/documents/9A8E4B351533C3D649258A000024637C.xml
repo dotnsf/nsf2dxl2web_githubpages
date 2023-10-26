@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/B5E18B470736AB0D49258A00002052C0.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A000002200B" form="Form2">
+<noteinfo noteid="902" unid="9A8E4B351533C3D649258A000024637C" sequence="1">
+<created><datetime>2023-08-03 15:37:27</datetime></created>
+<modified><datetime>2023-08-03 15:38:53</datetime></modified>
+<revised><datetime>2023-08-03 15:38:53</datetime></revised>
+<lastaccessed><datetime>2023-08-03 15:38:53</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-03 15:38:53</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<item name="Shared_Subject"><text>テスト２</text></item>
+<item name="Username" names="true"><text>Admin</text></item>
+<item name="Body"><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"><run><font style="font-weight:bold;">表</font></run></p>
+<p def="1"/>
+<table widthtype="fitmargins" refwidth="9.5000in"><tr><th width="33.3333%"/><th width="33.3333%"/><th width="33.3333%"/>
+</tr><tr>
+<td bgcolor="silver">
+<pardef id="2" align="center" keepwithnext="true" keeptogether="true"/>
+<p def="2"><run><font style="font-weight:bold;">1</font></run></p></td>
+<td bgcolor="silver">
+<pardef id="3" align="center" keepwithnext="true" keeptogether="true"/>
+<p def="3"><run><font style="font-weight:bold;">2</font></run></p></td>
+<td bgcolor="silver">
+<pardef id="4" align="center" keepwithnext="true" keeptogether="true"/>
+<p def="4"><run><font style="font-weight:bold;">3</font></run></p></td></tr>
+<tr>
+<td bgcolor="white">
+<pardef id="5" keepwithnext="true" keeptogether="true"/>
+<p def="5">4</p></td>
+<td bgcolor="white">
+<pardef id="6" keepwithnext="true" keeptogether="true"/>
+<p def="6">5</p></td>
+<td bgcolor="white">
+<pardef id="7" keepwithnext="true" keeptogether="true"/>
+<p def="7">6</p></td></tr>
+<tr>
+<td bgcolor="white">
+<pardef id="8" align="right" keepwithnext="true" keeptogether="true"/>
+<p def="8">7</p></td>
+<td bgcolor="white">
+<pardef id="9" align="right" keepwithnext="true" keeptogether="true"/>
+<p def="9">8</p></td>
+<td bgcolor="white">
+<pardef id="10" align="right" keepwithnext="true" keeptogether="true"/>
+<p def="10">9</p></td></tr></table>
+<p def="1"/>
+<p def="1"><run><font style="font-weight:bold;">リンク</font></run></p>
+<p def="1">https://manholemap.juge.me/</p>
+<p def="1"/>
+<p def="1"/></richtext></item>
+<item name="Shared_Modified"><datetime>2023-08-03 15:37:27</datetime></item></document>

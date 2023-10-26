@@ -1,0 +1,57 @@
+<html>
+<head>
+  <title>NSF2DXL2WEB サンプル</title>
+  <link rel="icon" href="db.png"/>
+  <link rel="apple-touch-icon" href="db.png"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script>
+  var license_id = '';
+  var repid = "(REPID)";
+  var httpget_url = "http://httpgetlog.yellowmix.net:8080";
+  
+  var param = ( location.search ? location.search : '' );
+  $( function(){
+    if( param ){
+      var v = document.querySelector( '#views' );
+      v.setAttribute( 'src', 'views.html' + param );
+      
+      param.substring( 1 ).split( '&' ).forEach( function( keyvalue ){
+        var kv = keyvalue.split( '=' );
+        if( kv.length > 1 ){
+          if( kv[0] == 'license_id' && kv[1] ){
+            license_id = kv[1];
+          }
+        }
+      });
+    }
+    
+    var pathname = location.pathname;  //. '/xxxxxxxx/index.html'
+    if( pathname ){
+      var t = pathname.split( '/' );
+      if( t.length > 1 ){
+        repid = t[1];
+        console.log( repid );
+      }
+    }
+      
+    $.ajax({
+      url: httpget_url + '/?repid=' + repid + '&type=web',
+      type: 'GET',
+      success: function( result ){
+      },
+      error: function( e0, e1, e2 ){
+      }
+    });
+  });
+  </script>
+</head>
+<frameset rows="40%,*">
+  <frameset cols="30%,*">
+    <frame src="views.html" id="views" name="views"/>
+    <frame name="docs"/>
+  </frameset>
+  <frame name="doc"/>
+</frameset>
+</html>

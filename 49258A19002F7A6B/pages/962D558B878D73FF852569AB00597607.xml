@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="Web Database Location" alias="Db Location" publicaccess="true" designerversion="6" language="en" bgcolor="#cfd6e1" noinitialfocus="true" nofocusonf6="true">
+<noteinfo noteid="8aa" unid="962D558B878D73FF852569AB00597607" sequence="399">
+<created><datetime dst="true">20001204T121709,19-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:44</datetime></modified>
+<revised><datetime dst="true">20130924T101318,94-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:44</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:44</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103142,04-04</datetime><datetime dst="true">20081112T161256,64-04</datetime><datetime dst="true">20090302T151521,86-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" align="none"/>
+<p def="1"/></richtext></body>
+<item name="$SignatureStatus"><text>1</text></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>Db Location</text></item></page>

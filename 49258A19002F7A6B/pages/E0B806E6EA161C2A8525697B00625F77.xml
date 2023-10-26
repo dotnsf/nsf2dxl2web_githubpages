@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="NotesTo Do Picker" alias="To Do Picker" hide="web" publicaccess="true" designerversion="6" language="en" noinitialfocus="true">
+<noteinfo noteid="60e" unid="E0B806E6EA161C2A8525697B00625F77" sequence="399">
+<created><datetime dst="true">20001017T135429,67-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:41</datetime></modified>
+<revised><datetime dst="true">20130924T101315,28-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:41</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:41</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103139,20-04</datetime><datetime dst="true">20081112T161240,95-04</datetime><datetime dst="true">20090302T151016,32-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby><code event="windowtitle"></code>
+<body><richtext>
+<pardef id="1" leftmargin="0.7500in"/>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run><iframe width="80%" height="200" src="../outlines/2D0890FAB8B89A8785256655006EB20B.html"></iframe></p></richtext></body>
+<item name="$SignatureStatus"><text>1</text></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>To Do Picker</text></item></page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="($ARCH_PRV_Left)" publicaccess="true" designerversion="7" language="en" renderpassthrough="true">
+<noteinfo noteid="a0a" unid="5C1F8D90A8F350A485256FB9005EEC9F" sequence="360">
+<created><datetime dst="true">20050303T131649,59-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:46</datetime></modified>
+<revised><datetime dst="true">20130924T101321,32-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:46</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:46</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103149,21-04</datetime><datetime dst="true">20081112T161058,63-04</datetime><datetime dst="true">20090302T144933,82-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<background repeat="center"><imageref name="archoutline.gif"/></background>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"/>
+<p def="1"><run><font style="font-weight:bold;" color="#78a8d0">Archive Preview</font></run></p>
+<p def="1"><run><font color="#78a8d0"></font></run></p>
+<p def="1"><iframe width="80%" height="200" src="../outlines/79C6A6946C0F42D685256FB9005F03F6.html"></iframe></p></richtext></body>
+<item name="OriginalModTime" sign="true"><datetime dst="true">20050216T145551,78-04</datetime></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>($ARCH_PRV_Left)</text></item></page>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/Group.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A19002F7A6B" form="Group">
+<noteinfo noteid="111a" unid="D9F4AD2317673E9249256C4B001578E4" sequence="3">
+<created><datetime>2002-10-07 12:54:32</datetime></created>
+<modified><datetime>2023-08-28 17:38:56</datetime></modified>
+<revised><datetime>2012-12-20 20:26:44</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:56</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:56</datetime></addedtofile></noteinfo>
+<updatedby><name>Debbie Branco</name><name>CN=Rob Slapikoff/O=Iris</name><name>CN=Ana Kapetanakis/OU=Westford/O=IBM</name><name>CN=Diana SL Lo/OU=Taiwan/OU=Contr/O=IBM</name><name>CN=Kun KZ Zhou/OU=China/O=IBM</name></updatedby>
+<revisions><datetime>2008-12-05 01:07:27</datetime><datetime>2012-12-14 17:38:04</datetime></revisions>
+<item name="$LastBuildTime"><datetime>2008-12-03 12:22:58</datetime></item>
+<item name="$BabelInfo"><textlist><text>1BA99D85CEB8CFE98525615C00816A45</text><text>ja-JP</text></textlist></item>
+<item name="$ConflictAction"><text>1</text></item>
+<item name="ListDescription"><text>このグループにドメイン内のすべての Lotus Domino Server を登録してください。このグループのサーバーは、多くのデータベースによって [管理者] のアクセスレベルが設定されています。これらのサーバーには通常、ドメイン内のほとんど (あるいはすべて) のデータベースの複製が格納されています。</text></item>
+<item name="Comment"><richtext>
+<pardef id="1" leftmargin="0.0500in" hide="preview previewedit" keepwithnext="true" keeptogether="true"/>
+<p def="1"/></richtext></item>
+<item name="ListOwner" authors="true" names="true" protected="true"><text/></item>
+<item name="LocalAdmin" authors="true" names="true" protected="true"><text/></item>
+<item name="AvailableForDirSync" protected="true"><text>1</text></item>
+<item name="DocumentAccess" authors="true" names="true" protected="true"><text>[GroupModifier]</text></item>
+<item name="GroupType"><text>0</text></item>
+<item name="ListName" names="true" protected="true"><text>OtherDomainServers</text></item>
+<item name="Members" names="true"><text/></item>
+<item name="Categories"><text/></item>
+<item name="Type" protected="true"><text>Group</text></item>
+<item name="GroupTitle"><text>0</text></item>
+<item name="SavedUpdate"><text>1</text></item>
+<item name="$LANGUAGE"><text>ja</text></item>
+<item name="$NoPurge"><text>1</text></item>
+<item name="$PublicAccess"><text>1</text></item>
+<item name="ExcludeFromView"><textlist><text>D</text><text>S</text><text>A</text></textlist></item>
+<item name="PROTECTFROMARCHIVE"><number>1</number></item>
+<item name="$TUA" summary="true">
+<rawitemdata type="4">
+AQCSPmcXI6302eR4FQBLbCVJ
+</rawitemdata></item></document>

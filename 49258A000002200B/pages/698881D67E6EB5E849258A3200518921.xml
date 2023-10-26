@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="myPage1" publicaccess="false" designerversion="8.5.3" bgcolor="#e0ffbf" renderpassthrough="true">
+<noteinfo noteid="7ae" unid="698881D67E6EB5E849258A3200518921" sequence="4">
+<created><datetime>2023-09-22 23:50:35</datetime></created>
+<modified><datetime>2023-09-24 15:59:29</datetime></modified>
+<revised><datetime>2023-09-24 15:59:29</datetime></revised>
+<lastaccessed><datetime>2023-09-24 15:59:29</datetime></lastaccessed>
+<addedtofile><datetime>2023-09-22 23:50:35</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<wassignedby><name>CN=Admin/O=Dot123</name></wassignedby>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<pardef id="2" align="center"/>
+<p def="2"><run><font style="font-weight:bold;">- </font></run><run><font style="font-weight:bold;" color="blue">myPage1</font></run><run><font style="font-weight:bold;"> -</font></run></p>
+<p def="1"/>
+<p def="1"/>
+<p def="1"><iframe width="80%" height="200" src="../outlines/AA195E30A6807BEC49258A320050CFCC.html"></iframe></p>
+<pardef id="3" newpage="true"/>
+<p def="3"/>
+<p def="1"/>
+<p def="1"><embeddednavigator name="myNavigator"/></p></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>myPage1</text></item></page>

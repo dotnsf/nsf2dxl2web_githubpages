@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script>
+var display_pages = false;
+var display_outlines = false;
+
+$(function(){
+  var param = ( location.search ? location.search.substring( 1 ) : "" );
+  var params = param.split( "&" );
+  params.forEach( function( keyvalue ){
+    var kv = keyvalue.split( "=" );
+    if( kv.length > 1 ){
+      if( kv[0] == "display_pages" && kv[1] ){
+        display_pages = true;
+      }else if( kv[0] == "display_outlines" && kv[1] ){
+        display_outlines = true;
+      }
+    }
+  });
+  if( display_pages ){ $("#div_pages").css( "display", "block" ); }
+  if( display_outlines ){ $("#div_outlines").css( "display", "block" ); }
+});
+
+</script>
+</head><body><h3><img src="./db.png" width="24"/> NSF2DXL2WEB サンプル</h3><a target="docs" href="./views/view_36D89674FBEACD5149258A0000022011.html"><img src="./resources/viewlink.png" width="20"/>($All)</a></br><a target="docs" href="./views/view_A394FB29E2BFA46749258A0000041752.html"><img src="./resources/viewlink.png" width="20"/>View1</a></br><a target="docs" href="./views/view_98AE44FF5E171E4249258A0000041F10.html"><img src="./resources/viewlink.png" width="20"/>View2</a></br><a target="docs" href="./views/view_C79C3210ABFED47449258A02002A01A3.html"><img src="./resources/viewlink.png" width="20"/>View0</a></br><a target="docs" href="./views/view_9B27DEAEAAF7B4E049258A0100300BB9.html"><img src="./resources/folderlink.png" width="20"/>myFolder</a></br><div id="div_pages" style="display:none;"><hr/><a target="docs" href="./pages/7BF5195FE72A036F49258A3200514C9A.xml"><img src="./resources/betalink.png" width="20"/>myPage0</a></br><a target="docs" href="./pages/698881D67E6EB5E849258A3200518921.xml"><img src="./resources/betalink.png" width="20"/>myPage1</a></br></div><div id="div_outlines" style="display:none;"><hr/><a target="docs" href="./outlines/AA195E30A6807BEC49258A320050CFCC.html"><img src="./resources/betalink.png" width="20"/>myOutline</a></br></div><hr/><a target="doc" href="./helpabout/helpabout.xml"><img src="./resources/doclink.png" width="20"/>アプリケーションについて</a></br><a target="doc" href="./helpusing/helpusing.xml"><img src="./resources/doclink.png" width="20"/>アプリケーションの使い方</a></br></body></html>

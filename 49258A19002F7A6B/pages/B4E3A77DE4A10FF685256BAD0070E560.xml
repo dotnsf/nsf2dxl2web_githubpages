@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="Switcher Form for To Do Web" alias="SwitcherForm_ToDo" publicaccess="true" designerversion="6.5" language="en" renderpassthrough="true">
+<noteinfo noteid="7e2" unid="B4E3A77DE4A10FF685256BAD0070E560" sequence="405">
+<created><datetime dst="true">20020502T163307,52-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:43</datetime></modified>
+<revised><datetime dst="true">20130924T101318,16-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:43</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:43</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103141,13-04</datetime><datetime dst="true">20081112T161252,13-04</datetime><datetime dst="true">20090302T151456,38-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<actionbar borderstyle="none" useappletinbrowser="true" bgcolor="#79a9d2" bordercolor="black"><actionbarstyle height="11.2500ex" repeat="hrepeat"><font size="3pt" name="multilingual"/><imageref name="MailFS - Shadow - Web Left"/></actionbarstyle>
+<actionbuttonstyle margintype="fixed" margin="1" bgcolor="none" displayborder="never"><imageref name="MailFS - Button Web"/></actionbuttonstyle><font size="14pt" color="#004080"/><border width="0px 0px 1px"/>
+<action title="To Do\Switch to Mail"><code event="click"></code></action>
+<action title="To Do\Switch to Calendar"><code event="click"></code></action>
+<action title="To Do\" displaytype="menuseparator"/>
+<sharedactionref id="173">
+<action title="To Do\Logout" showinmenu="false" hide="notes"><code event="hidewhen"></code><code event="onClick" for="web"></code></action></sharedactionref></actionbar>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"><run><font size="1pt" color="#002060"></font></run></p>
+<table widthtype="fitwindow" cellbordercolor="#5f5f5f" leftmargin="0.7500in" refwidth="4.2500in"><tr><th width="100%"/>
+</tr><tr>
+<td borderwidth="0px">
+<pardef id="3" leftmargin="0.1000in" keepwithnext="true" keeptogether="true"/>
+<p def="3"><run><font size="8pt" color="#202052"></font></run><run><font style="font-weight:bold;"><computedtext><code event="value"></code></computedtext></font></run><run><font size="8pt" color="#202052"></font></run><run><font size="9pt"><computedtext><code event="value"></code></computedtext></font></run><run><font size="8pt" color="#202052"></font></run></p></td></tr></table>
+<pardef id="4" hide="read edit copy preview previewedit"/>
+<p def="4"/></richtext></body>
+<item name="DEBUG_SIG" sign="true"><text>1</text></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>SwitcherForm_ToDo</text></item></page>

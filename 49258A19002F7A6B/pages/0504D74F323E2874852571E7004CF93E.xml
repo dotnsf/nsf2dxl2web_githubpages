@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="NotesContactPicker" alias="Contact Picker" hide="web" publicaccess="true" designerversion="8" language="en" noinitialfocus="true">
+<noteinfo noteid="5fe" unid="0504D74F323E2874852571E7004CF93E" sequence="343">
+<created><datetime dst="true">20060912T100045,42-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:41</datetime></modified>
+<revised><datetime dst="true">20130924T101315,20-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:41</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:41</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103139,16-04</datetime><datetime dst="true">20081112T161240,02-04</datetime><datetime dst="true">20090302T151014,59-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby><code event="windowtitle"></code>
+<body><richtext>
+<pardef id="1" leftmargin="0.7500in"/>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run><iframe width="80%" height="200" src="../outlines/11608637AD82451C8025720300578D66.html"></iframe></p></richtext></body>
+<item name="OriginalModTime" sign="true"><datetime dst="true">20060726T165052,65+01</datetime></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>Contact Picker</text></item></page>

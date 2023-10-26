@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3c.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title>NSF2DXL2WEB</title>
+<meta charset="utf8"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" rel="stylesheet"/>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js"></script>
+<link href="//use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet"/>
+<script>
+var param = ( location.search ? location.search : '' );
+$(function(){
+  $.ajax({
+    url: './dbs.json',
+    type: 'GET',
+    success: function( dbs_json ){
+      if( typeof dbs_json == 'string' ){ dbs_json = JSON.parse( dbs_json ); }
+      console.log( dbs_json );
+      Object.keys( dbs_json ).forEach( function( replica_id ){
+        var title = dbs_json[replica_id];
+        var link_folder = './' + replica_id;
+        var icon_url = link_folder + '/db.png';
+        var link_url = link_folder + '/index.html' + param;
+
+        var card = '<div class="card text-center border-secondary mb-3">'
+          + '<a target="_blank" href="' + link_url + '">'
+          + '<img width="64px" height="64px" src="' + icon_url + '"/>'
+          + '<div class="card-body">'
+          + '<div class="card-title">' + title + '</div>'
+          + '</div>'
+          + '</a>'
+          + '</div>';
+        $("#main").append( card );
+      });
+    },
+    error: function( e0, e1, e2 ){
+      console.log( e0, e1, e2 );
+    }
+  });
+});
+</script>
+<style type="text/css">
+html, body{
+  text-align: center;
+  font-size: 20px;
+  color: #333;
+}
+</style>
+</head>
+<body>
+
+<div class="container" style="padding: 50px 0 0 0">
+  <div class="card-columns" id="main">
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="WebCalendar Picker" alias="Calendar Picker" hide="notes" publicaccess="true" designerversion="6" language="en" bgcolor="#efefef">
+<noteinfo noteid="8d2" unid="D9F4093F7A92956A8525697B00625F7A" sequence="403">
+<created><datetime dst="true">20001017T135429,70-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:44</datetime></modified>
+<revised><datetime dst="true">20130924T101318,96-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:44</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:44</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103142,05-04</datetime><datetime dst="true">20081112T161257,30-04</datetime><datetime dst="true">20090302T151523,07-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby><code event="htmlhead"></code><code event="postopen"></code><code event="jsheader" for="web"></code><code event="onClick" for="web"></code><code event="onLoad" for="web"></code><code event="onClick" for="client"></code><code event="onLoad" for="client"></code>
+<body><richtext>
+<pardef id="1" align="none" leftmargin="1in" tabs="L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in"/>
+<p def="1"><run html="true"><font size="8pt"/></run></p>
+<pardef id="2" leftmargin="0.7500in"/>
+<p def="2"/>
+<p def="1"><run html="true"><font size="8pt"/>&lt;DIV CLASS=TXTOUTLINE&gt;</run></p>
+<p def="2"><iframe width="80%" height="200" src="../outlines/825D516E9F163797852566730058D578.html"></iframe><run html="true"><font size="8pt"/>&lt;/DIV&gt;</run></p></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>Calendar Picker</text></item></page>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="NotesCalendar Picker" alias="Calendar Picker" hide="web" publicaccess="true" designerversion="6.5" language="en" bgcolor="#ededf2" noinitialfocus="true">
+<noteinfo noteid="60a" unid="8BA116EC113AF8DD8525697B00625F73" sequence="427">
+<created><datetime dst="true">20001017T135429,63-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:41</datetime></modified>
+<revised><datetime dst="true">20130924T101315,16-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:41</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:41</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103139,14-04</datetime><datetime dst="true">20081112T161239,81-04</datetime><datetime dst="true">20090302T151014,29-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby><code event="windowtitle"></code><code event="postopen"></code>
+<body><richtext>
+<pardef id="1" leftmargin="0.7500in" hide="notes web mobile"/>
+<p def="1"><run><font size="2pt" name="multilingual"></font></run></p>
+<table widthtype="fitwindow" leftmargin="0.7500in" refwidth="8.5000in"><tr><th width="0.1250in"/><th width="100%"/><th width="0.1250in"/>
+</tr><tr>
+<td borderwidth="0px">
+<pardef id="3" keepwithnext="true" keeptogether="true"/>
+<p def="3"><run><font name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<pardef id="4" align="center" leftmargin="0.0104in" keepwithnext="true" keeptogether="true"/>
+<p def="4"><run><font name="multilingual"></font></run><embeddeddatepicker controlbgcolor="none" textcolor="#405480" height="1.4299in" width="1.6000in"><font size="9pt" name="multilingual"/><border width="1px" color="white"/></embeddeddatepicker><run><font size="6pt" name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<pardef id="5" keepwithnext="true" keeptogether="true"/>
+<p def="5"><run><font size="9pt" name="multilingual"></font></run></p></td></tr>
+<tr>
+<td borderwidth="0px">
+<p def="3"><run><font size="9pt" name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<pardef id="6" align="center" leftmargin="0%" spacebefore="1.5" keepwithnext="true" keeptogether="true"/>
+<p def="6"><run><font size="9pt" style="bold underline" name="multilingual" color="#405480"></font></run><actionhotspot hotspotstyle="none"><code event="click"></code><run><font size="9pt" style="bold underline" name="multilingual" color="#405480">Today</font></run></actionhotspot><run><font size="9pt" style="font-weight:bold;" name="multilingual" color="#405480"> is </font></run><run><font size="9pt" style="font-weight:bold;" name="multilingual" color="#405480"><computedtext><code event="value"></code></computedtext></font></run><run><font size="9pt" name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<p def="5"><run><font size="9pt" name="multilingual"></font></run></p></td></tr>
+<tr>
+<td borderwidth="0px">
+<pardef id="7" hide="notes mobile" keepwithnext="true" keeptogether="true"/>
+<p def="7"><run><font size="9pt" name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<pardef id="8" hide="notes mobile" keepwithnext="true" keeptogether="true"/>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="8"><run><font size="9pt" name="multilingual"></font></run></p></td>
+<td borderwidth="0px">
+<pardef id="9" hide="notes mobile" keepwithnext="true" keeptogether="true"/>
+<p def="9"><run><font name="multilingual"></font></run></p></td></tr></table>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run></p></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>Calendar Picker</text></item></page>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../forms/B5E18B470736AB0D49258A00002052C0.xsl"?><document version="10.0" maintenanceversion="1.0" replicaid="49258A000002200B" form="フォーム２">
+<noteinfo noteid="932" unid="D5D1B8462C04947B49258A12007F6085" sequence="3">
+<created><datetime>2023-08-22 08:11:17</datetime></created>
+<modified><datetime>2023-10-01 22:22:55</datetime></modified>
+<revised><datetime>2023-10-01 22:22:55</datetime></revised>
+<lastaccessed><datetime>2023-10-01 22:22:55</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-22 08:14:00</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Dot123</name></updatedby>
+<revisions><datetime>2023-08-22 08:14:00</datetime><datetime>2023-08-22 08:16:15</datetime></revisions>
+<item name="Shared_Subject"><text>タブ</text></item>
+<item name="Username" names="true"><text>Admin</text></item>
+<item name="Body"><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"/>
+<div class="tab-wrap"><input id="tab-0-0" type="radio" name="tab_item_0" class="tab-switch" checked="checked"/><label class="tab-label" for="tab-0-0">あ</label><div class="tab-content"><p>
+<pardef id="3" keepwithnext="true" keeptogether="true"/>
+<p def="3"/>
+<p def="3">タブの１ページ目</p>
+<p def="3"/>
+<p def="3"/></p></div><input id="tab-0-1" type="radio" name="tab_item_0" class="tab-switch"/><label class="tab-label" for="tab-0-1">い</label><div class="tab-content"><p>
+<p def="3"/>
+<p def="3">タブの２ページ目</p>
+<p def="3"/></p></div><input id="tab-0-2" type="radio" name="tab_item_0" class="tab-switch"/><label class="tab-label" for="tab-0-2">う</label><div class="tab-content"><p>
+<p def="3"/>
+<p def="3">タブの３ページ目</p>
+<p def="3"/></p></div></div>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/>
+<p def="1"/></richtext></item>
+<item name="Shared_Modified"><datetime>2023-08-22 08:11:17</datetime></item></document>

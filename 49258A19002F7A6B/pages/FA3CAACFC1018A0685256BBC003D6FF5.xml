@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="Switcher Page for Spacing" alias="Switcher Page for Spacing" publicaccess="true" designerversion="7" language="en" noinitialfocus="true" nofocusonf6="true" renderpassthrough="true">
+<noteinfo noteid="7aa" unid="FA3CAACFC1018A0685256BBC003D6FF5" sequence="382">
+<created><datetime dst="true">20020517T071103,57-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:43</datetime></modified>
+<revised><datetime dst="true">20130924T101317,76-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:43</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:43</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103141,24-04</datetime><datetime dst="true">20081112T161253,75-04</datetime><datetime dst="true">20090302T151459,24-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" hide="notes web mobile"/>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run></p>
+<table widthtype="fitwindow" cellbordercolor="#a9c0d7" leftmargin="0.7500in" refwidth="10.2813in"><tr><th width="100%"/>
+</tr><tr>
+<td borderwidth="0px 0px 2px" bgcolor="#b0c8e0">
+<cellbackground><imageref name="viewGradient.gif"/></cellbackground>
+<pardef id="3" keepwithnext="true" keeptogether="true"><code event="hidewhen"></code></pardef>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="3"><run><font size="3pt" name="multilingual"></font></run></p></td></tr></table>
+<pardef id="4" leftmargin="1in" hide="notes web mobile"/>
+<p def="4"><run><font size="3pt" name="multilingual"></font></run></p>
+<table widthtype="fitwindow" cellbordercolor="#a9c0d7" leftmargin="0.7500in" refwidth="10.2813in"><tr><th width="100%"/>
+</tr><tr>
+<td borderwidth="0px 0px 2px" bgcolor="#b0c8e0">
+<cellbackground><imageref name="viewGradient.gif"/></cellbackground>
+<pardef id="5" keepwithnext="true" keeptogether="true"><code event="hidewhen"></code></pardef>
+<p def="5"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="5"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="5"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="5"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="5"><run><font size="3pt" name="multilingual">a</font></run></p>
+<p def="5"><run><font size="3pt" name="multilingual"></font></run></p>
+<p def="5"><run><font size="2pt" name="multilingual"></font></run></p></td></tr></table>
+<p def="1"><run><font size="9pt" name="multilingual"></font></run></p></richtext></body>
+<item name="$$ScriptName" summary="false" sign="true"><text>Switcher Page for Spacing</text></item></page>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="($ARCH_PRV)" publicaccess="true" designerversion="7" language="en" renderpassthrough="true">
+<noteinfo noteid="d2e" unid="9C54503FA975361685256FB9005EEC9E" sequence="360">
+<created><datetime dst="true">20050303T131649,58-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:49</datetime></modified>
+<revised><datetime dst="true">20130924T101321,28-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:49</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:49</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103149,19-04</datetime><datetime dst="true">20081112T161058,47-04</datetime><datetime dst="true">20090302T144933,55-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1"/>
+<p def="1"/>
+<p def="1"/>
+<pardef id="2" align="center"/>
+<p def="2"><run><font color="#004080">Happy text goes here to explain what we just returned to the user </font></run></p></richtext></body>
+<item name="OriginalModTime" sign="true"><datetime dst="true">20050214T155252,39-04</datetime></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>($ARCH_PRV)</text></item></page>

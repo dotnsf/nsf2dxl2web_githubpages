@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="Switcher MV Page for Calendar - Hinky" alias="Switcher MV Page for Calendar - Hinky" publicaccess="true" designerversion="8" language="en" renderpassthrough="true">
+<noteinfo noteid="7e6" unid="346FE29F2AB31BF385256E3E004A110B" sequence="369">
+<created><datetime dst="true">20040218T092900,27-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:43</datetime></modified>
+<revised><datetime dst="true">20130924T101318,24-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:43</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:43</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103141,19-04</datetime><datetime dst="true">20081112T161252,91-04</datetime><datetime dst="true">20090302T151457,82-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" leftmargin="0.7500in"/>
+<p def="1"><run><font size="5pt" name="multilingual"></font></run></p>
+<table widthtype="fitwindow" minrowheight="3.3000in" leftmargin="0.7500in" refwidth="4.1146in"><border style="image" width="2px 1px 0px"><imageref name="MailFS - Shadow Left"/></border><tr><th width="100%"/>
+</tr><tr>
+<td borderwidth="0px" bgcolor="#b0c8e0">
+<pardef id="2" keepwithnext="true" keeptogether="true"/>
+<p def="2"><run><font size="1pt" name="multilingual"></font></run></p>
+<pardef id="3" keepwithnext="true" keeptogether="true"><code event="hidewhen"></code></pardef>
+<p def="3"><run><font size="9pt" name="multilingual"></font></run><actionhotspot hotspotstyle="none" targetframe="Expand"><code event="click"></code><img src="data:image/mailfs - hinky up;base64,
+R0lGODlhEwANAKIAAAAAAP///wBAgEx0nEZpjP///wAAAAAAACH5BAEAAAUALAAAAAATAA0AAAMr
+WLrc/jDKSWsjOJMluhfKoBED93VhUyog064L3HIpIzevSrvh4P+mk8WRAAA7
+" width="9px" height="13px" alttext="Expand Miniview" align="bottom"></img><run><font size="9pt" name="multilingual"></font></run></actionhotspot><run><font size="9pt" name="multilingual"></font></run></p>
+<pardef id="4" keepwithnext="true" keeptogether="true"><code event="hidewhen"></code></pardef>
+<p def="4"><run><font size="9pt" name="multilingual"></font></run><actionhotspot hotspotstyle="none" targetframe="Collapse"><code event="click"></code><run><font size="9pt" name="multilingual"></font></run><img src="data:image/mailfs - hinky down;base64,
+R0lGODlhEwANAKIAAAAAAP///wBAgEx0nEZpjP///wAAAAAAACH5BAEAAAUALAAAAAATAA0AAAMb
+WLrc/jDKSau9OOtdBvnfsAhkKShDqoqKWXIJADs=
+" width="9px" height="13px" alttext="Collapse Miniview" align="bottom"></img><run><font size="9pt" name="multilingual"></font></run></actionhotspot><run><font size="9pt" name="multilingual"></font></run></p>
+<pardef id="5" keepwithnext="true" keeptogether="true"><code event="hidewhen"></code></pardef>
+<p def="5"><run><font size="9pt" name="multilingual"></font></run></p>
+<p def="2"><run><font size="9pt" name="multilingual"></font></run></p></td></tr></table>
+<p def="1"/></richtext></body>
+<item name="OriginalModTime" sign="true"><datetime dst="true">20050405T092648,33-04</datetime></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>Switcher MV Page for Calendar - Hinky</text></item></page>

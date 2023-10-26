@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./page.xsl"?><page name="CS Web Database Location" alias="CS Db Location" hide="notes" publicaccess="true" designerversion="6" language="en" bgcolor="#cfd6e1" noinitialfocus="true" nofocusonf6="true">
+<noteinfo noteid="3aa" unid="8C01BCAA7ADD9C9485256AD80060B67B" sequence="392">
+<created><datetime dst="true">20011001T133621,71-04</datetime></created>
+<modified><datetime>2023-08-28 17:38:38</datetime></modified>
+<revised><datetime dst="true">20130924T101312,40-04</datetime></revised>
+<lastaccessed><datetime>2023-08-28 17:38:38</datetime></lastaccessed>
+<addedtofile><datetime>2023-08-28 17:38:38</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<revisions><datetime dst="true">20080909T103136,90-04</datetime><datetime dst="true">20081112T161228,53-04</datetime><datetime dst="true">20090302T150750,15-04</datetime></revisions>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<body><richtext>
+<pardef id="1" align="none"/>
+<p def="1"/></richtext></body>
+<item name="$SignatureStatus"><text>1</text></item>
+<item name="$$ScriptName" summary="false" sign="true"><text>CS Db Location</text></item></page>
