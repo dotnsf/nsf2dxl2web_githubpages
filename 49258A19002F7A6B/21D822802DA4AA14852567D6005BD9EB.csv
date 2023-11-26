@@ -1,7 +1,0 @@
-,,,Name,Phones,Business
-742229335D23ABA9002581440010DDD1,Person,Not Categorized,Ichiyanagi , Masako,,
-FFB26FA8AE8493A749256C4B001578EF,Group,Not Categorized,LocalDomainServers,別のドメインにある Lotus Domino Server のうち、よく複製を行うものをこのグループに登録してください。このグループのサーバーは、多くのデータベースによって [設計者] のアクセスレベルが設定されています。通常これらのサーバーには、ドメイン内のほとんど (あるいはすべて) のデータベースの複製が格納されますが、それぞれの複製のアクセス制御リストは、必ずしも同じものであるとは限りません。,
-D9F4AD2317673E9249256C4B001578E4,Group,Not Categorized,OtherDomainServers,このグループにドメイン内のすべての Lotus Domino Server を登録してください。このグループのサーバーは、多くのデータベースによって [管理者] のアクセスレベルが設定されています。これらのサーバーには通常、ドメイン内のほとんど (あるいはすべて) のデータベースの複製が格納されています。,
-CB58067E431231EB4925806C003F1AF3,Group,Not Categorized,TeamCloud 2016-01,,
-FEF75DB790E1F1A84925806C003F21A6,Group,Not Categorized,TeamCloud 2016-02,,
-61E840EBACD8FEB84925806C003F2A0E,Group,Not Categorized,TeamCloud 2016-03,,

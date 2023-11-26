@@ -71,6 +71,8 @@ function refresh_view(){
     getDataHead( unid ).then( function( line ){
       if( line ){
         var cols = line.split( ',' );
+        $('#viewname').html( cols[0] );
+        
         var tr = '<tr>';
         for( var i = 1; i < cols.length; i ++ ){
           tr += '<th>' + cols[i] + '</th>';
@@ -183,7 +185,7 @@ async function getCSV( view_unid ){
 </script>
 </head>
 <body>
-<h3> <img src="../resources/viewlink.png"/> ($All)</h3>
+<h3> <img src="../resources/viewlink.png"/> <span id="viewname">($All)</span></h3>
 <br/>
 
 <table class="table_" style="width:100%;">
